@@ -1,2 +1,2 @@
 # app
-Something that make us convenient
+Something that makes us convenient
